@@ -1,0 +1,32 @@
+/*
+* Celea Ransom
+* Due Date
+* Favorites 
+*/
+
+/* The universal selector */
+
+*  {
+
+}
+
+/* Body attributes here */
+
+body {
+
+    background-image: linear-gradient(pink, orange);
+    
+}
+
+figcaption {
+    color:white;
+}
+#dog {
+    width: 300px; height:200px;
+}
+#sport {
+    width: 400px; height:300px;
+}
+#school {
+    width: 350px; height: 250px;
+}
